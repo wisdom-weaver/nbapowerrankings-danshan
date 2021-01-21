@@ -6,10 +6,9 @@
 }
 
 body {
-  background: url("http://files.digizup.com/bettorsight-cta/assets/img/bg-100.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: right;
+  background: white;
+  max-width: 100%;
+  width: 100%;
 }
 
 .small-logo-container {

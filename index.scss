@@ -87,3 +87,34 @@ body{
   border-radius: 6px;
   -webkit-box-shadow: inset 0 0 6px rgba($accent-color,1); 
 }
+.rankings-table{
+  padding: 8px;
+}
+.black-btn{
+  text-transform: initial !important;
+  border-radius: 8px !important;
+  background-color: black !important;
+}
+
+.side-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  &.side-side-card{
+    display: none;
+    height: 80vh !important;
+  }
+  &.top-side-card{
+    height: 15vh !important;
+  }
+}
+
+@media screen and (min-width: 1000px){
+  &.side-side-card{
+    display: flex !important;
+  }
+  &.top-side-card{
+    display: none !important;
+  }
+}

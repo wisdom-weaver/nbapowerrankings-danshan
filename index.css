@@ -99,4 +99,50 @@ body {
   border-radius: 6px;
   -webkit-box-shadow: inset 0 0 6px #484e52;
 }
+
+.rankings-table {
+  padding: 8px;
+}
+
+.black-btn {
+  text-transform: initial !important;
+  border-radius: 8px !important;
+  background-color: black !important;
+}
+
+.side-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.side-card.side-side-card {
+  display: none;
+  height: 80vh !important;
+}
+
+.side-card.top-side-card {
+  height: 15vh !important;
+}
+
+@media screen and (min-width: 1000px) {
+  .side-side-card {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  .top-side-card {
+    display: none !important;
+  }
+}
 /*# sourceMappingURL=index.css.map */

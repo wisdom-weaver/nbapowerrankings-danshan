@@ -1,0 +1,134 @@
+{
+  "Hawks": {
+    "teamName": "Atlanta Hawks",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/02/atlanta_hawks_logo.jpg"
+  },
+  "Celtics": {
+    "teamName": "Boston Celtics",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/02/boston_celtics_logo.jpg"
+  },
+  "Nets": {
+    "teamName": "Brooklyn Nets",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/brooklyn_nets_logo.jpg"
+  },
+  "Hornets": {
+    "teamName": "Charlotte Hornets",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/02/charlotte_hornets_logo-300x290.jpg"
+  },
+  "Bulls": {
+    "teamName": "Chicago Bulls",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/02/chicago_bulls_logo.jpg"
+  },
+  "Cavaliers": {
+    "teamName": "Cleveland Cavaliers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/02/2017_cavaliers_logo-208x300.png"
+  },
+  "Mavericks": {
+    "teamName": "Dallas Mavericks",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/dallas_mavericks_logo.jpg"
+  },
+  "Nuggets": {
+    "teamName": "Denver Nuggets",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/nuggets_logo_colors.png"
+  },
+  "Pistons": {
+    "teamName": "Detroit Pistons",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/detroit_pistons_logo-1-300x300.jpg"
+  },
+  "Warriors": {
+    "teamName": "Golden State Warriors",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/gsw.png"
+  },
+  "Rockets": {
+    "teamName": "Houston Rockets",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/houston_rockets_logo.jpg"
+  },
+  "Pacers": {
+    "teamName": "Indiana Pacers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/indiana_pacers_logo.jpg"
+  },
+  "Clippers": {
+    "teamName": "Los Angeles Clippers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/los_angeles_clippers_logo.jpg"
+  },
+  "Lakers": {
+    "teamName": "Los Angeles Lakers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/los_angeles_lakers_logo.jpg"
+  },
+  "Grizzlies": {
+    "teamName": "Memphis Grizzlies",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/Memphis_Grizzlies_logo_2018-249x300.png"
+  },
+  "Heat": {
+    "teamName": "Miami Heat",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/miami_heat_logo_colors-217x300.png"
+  },
+  "Bucks": {
+    "teamName": "Milwaukee Bucks",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/milwaukee_bucks_logo-242x300.jpg"
+  },
+  "Timberwolves": {
+    "teamName": "Minnesota Timberwolves",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/minnesota_timberwolves_logo-300x300.jpg"
+  },
+  "Pelicans": {
+    "teamName": "New Orleans Pelicans",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/06/new_orleans_pelicans_logo-300x224.jpg"
+  },
+  "Knicks": {
+    "teamName": "New York Knicks",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/knicks_logo_colors-300x244.png"
+  },
+  "Thunder": {
+    "teamName": "Oklahoma City Thunder",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/oklahoma_city_thunder_logo-300x276.jpg"
+  },
+  "Magic": {
+    "teamName": "Orlando Magic",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/orlando_magic_logo-300x218.jpg"
+  },
+  "76ers": {
+    "teamName": "Philadelphia 76ers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/sixers_logo_colors-300x300.png"
+  },
+  "Seventysixers": {
+    "teamName": "Philadelphia 76ers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/sixers_logo_colors-300x300.png"
+  },
+  "Suns": {
+    "teamName": "Phoenix Suns",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/phoenix_suns_logo-296x300.jpg"
+  },
+  "Blazers": {
+    "teamName": "Portland Trail Blazers",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/trailblazers_logo_colors-300x257.jpg"
+  },
+  "Kings": {
+    "teamName": "Sacramento Kings",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/sacramento_kings_logo-263x300.jpg"
+  },
+  "Spurs": {
+    "teamName": "San Antonio Spurs",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/san_antonio_spurs_logo-300x135.jpg"
+  },
+  "Raptors": {
+    "teamName": "Toronto Raptors",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/toronto_raptors_logo-300x300.jpg"
+  },
+  "Jazz": {
+    "teamName": "Utah Jazz",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/utah_jazz_logo-300x137.jpg"
+  },
+  "Wizards": {
+    "teamName": "Washington Wizards",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2015/03/washington_wizards_logo-300x300.jpg"
+  },
+  "Supersonics": {
+    "teamName": "Seattle Supersonics",
+    "teamImg": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/12/sonics_logo_08-283x300.jpg"
+  },
+  "Trailblazers": {
+    "teamName": "Portland Trail Blazers",
+    "teamImg": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/por.png"
+  }
+}
